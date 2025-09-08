@@ -22,6 +22,9 @@ To investigate trends in seat allocation, category-wise competitiveness, and ins
 - 🎨 Custom page-wise color-coded themes for round navigation
 
 ---
+https://github.com/aHemanth123/The-Changing-Landscape-of-Engineering-Education-Insights-from-IITs-NITs-and-IIITs/blob/db768092a334f8adf417df290fc3c14e56f134d4/1stRound.png 
+
+---
 
 ## 🖥️ Visual Highlights
 
