@@ -24,6 +24,7 @@ To investigate trends in seat allocation, category-wise competitiveness, and ins
 ---
 ![image alt](https://github.com/aHemanth123/The-Changing-Landscape-of-Engineering-Education-Insights-from-IITs-NITs-and-IIITs/blob/db768092a334f8adf417df290fc3c14e56f134d4/1stRound.png)
 ![image alt](https://github.com/aHemanth123/The-Changing-Landscape-of-Engineering-Education-Insights-from-IITs-NITs-and-IIITs/blob/285b2155e0016aa3b39c91af78b2c731ac8250cb/2ndRound.png)
+![image alt](https://github.com/aHemanth123/The-Changing-Landscape-of-Engineering-Education-Insights-from-IITs-NITs-and-IIITs/blob/631e118260e9c2a9126c93f0ba48ee270097aeac/3rdRound.png)
 ---
 
 ## 🖥️ Visual Highlights
