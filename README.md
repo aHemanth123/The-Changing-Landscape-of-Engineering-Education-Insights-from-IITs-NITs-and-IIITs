@@ -25,6 +25,10 @@ To investigate trends in seat allocation, category-wise competitiveness, and ins
 ![image alt](https://github.com/aHemanth123/The-Changing-Landscape-of-Engineering-Education-Insights-from-IITs-NITs-and-IIITs/blob/db768092a334f8adf417df290fc3c14e56f134d4/1stRound.png)
 ![image alt](https://github.com/aHemanth123/The-Changing-Landscape-of-Engineering-Education-Insights-from-IITs-NITs-and-IIITs/blob/285b2155e0016aa3b39c91af78b2c731ac8250cb/2ndRound.png)
 ![image alt](https://github.com/aHemanth123/The-Changing-Landscape-of-Engineering-Education-Insights-from-IITs-NITs-and-IIITs/blob/631e118260e9c2a9126c93f0ba48ee270097aeac/3rdRound.png)
+![image alt](https://github.com/aHemanth123/The-Changing-Landscape-of-Engineering-Education-Insights-from-IITs-NITs-and-IIITs/blob/f97f80db233e4dd466877ea2032ebb0bc30955fa/4thRound.png)
+![image alt](https://github.com/aHemanth123/The-Changing-Landscape-of-Engineering-Education-Insights-from-IITs-NITs-and-IIITs/blob/f97f80db233e4dd466877ea2032ebb0bc30955fa/5th%20Round.png)
+![image alt](https://github.com/aHemanth123/The-Changing-Landscape-of-Engineering-Education-Insights-from-IITs-NITs-and-IIITs/blob/f97f80db233e4dd466877ea2032ebb0bc30955fa/6thRound.png)
+![image alt](https://github.com/aHemanth123/The-Changing-Landscape-of-Engineering-Education-Insights-from-IITs-NITs-and-IIITs/blob/f97f80db233e4dd466877ea2032ebb0bc30955fa/7thRound.png)
 ---
 
 ## 🖥️ Visual Highlights
